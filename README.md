@@ -1,4 +1,4 @@
-##Build a Perfect Hero Section: HTML & CSS Techniques You Need!
+## Build a Perfect Hero Section: HTML & CSS Techniques You Need!
 
 This tutorial will guide you through creating a stunning hero section for your website using HTML and CSS!
 
